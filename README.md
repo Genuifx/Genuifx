@@ -1,4 +1,8 @@
-### Hi there 👋
+- 🔭 I’m currently working on Webank
+
+- 🌱 I’m currently learning WASM/FFmpeg/vue3
+
+- Father of cookie 🐕 and nemo 🐈 and tuizhi 🐈 
 
 <!--
 **Genuifx/Genuifx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
