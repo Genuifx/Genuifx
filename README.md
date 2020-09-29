@@ -1,7 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genuifx&layout=compact" style="" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=genuifx&show_icons=true&theme=vue" />
-
+<img  src="https://github-readme-stats.vercel.app/api?username=genuifx&show_icons=true&theme=vue" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=genuifx&layout=compact" style="" />
 
 
 - I'm wzt.
