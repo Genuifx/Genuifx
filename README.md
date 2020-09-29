@@ -1,7 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api?username=genuifx&show_icons=true&theme=vue" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genuifx&layout=compact" style="display: block; margin: 0 auto;" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genuifx&layout=compact" style="" />
 
-<hr />
+<img src="https://github-readme-stats.vercel.app/api?username=genuifx&show_icons=true&theme=vue" />
 
 
 
